@@ -30,28 +30,10 @@ Installer les dépendances :
 
 - Configurer le bot
 
-- Crée ou modifie le fichier config.json :
+- Modifie le fichier config.json
 
-{
+- Pour changer Name Ctrl+Shift+F chercher Name
   
-  "token": "",
-  
-  "guildId": "",
-  
-  "clientId": "",
-  
-  "channelId": "",
-  
-  "cfxJoin": "",
-  
-  "logoURL": "",
-  
-  "discordInvite": "",
-  
-  "serverName": ""
-
-}
-
 Lancer le bot :
 
 - node index.js
