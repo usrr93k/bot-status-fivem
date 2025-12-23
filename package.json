@@ -1,0 +1,10 @@
+{
+  "name": "fivem-status",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "node-fetch": "^3.3.2",
+    "undici": "^7.16.0"
+  }
+}
