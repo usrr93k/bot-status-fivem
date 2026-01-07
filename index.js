@@ -33,7 +33,7 @@ const logoAttachment = new AttachmentBuilder(logoPath);
 const buttons = new ActionRowBuilder()
     .addComponents(
         new ButtonBuilder()
-            .setLabel("Se connecter")
+            .setLabel("Se connecte")
             .setStyle(ButtonStyle.Link)
             .setURL(`https://cfx.re/join/${config.cfxJoin}`)
             .setEmoji("🚀"),
